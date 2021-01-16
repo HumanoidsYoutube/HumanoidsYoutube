@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+It's Humanoids Youtube! 
+How are you all doing.
+
+🔭 I’m currently working on <a href='https://whoamiinfo.github.io/'>Who Am I</a>.
+
+⚡ Fun fact: I have 31 subs. Can you boost that number? https://www.youtube.com/channel/UCZGfr63PP6-j5yPVBDp9V9Q
+
+📫 How to reach me: Contact me on discord, BobIsReal#8894
+
 <!--
 **HumanoidsYoutube/HumanoidsYoutube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
